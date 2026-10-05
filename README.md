@@ -70,7 +70,7 @@ Hypixel SkyBlock용 Fabric 클라이언트 모드예요.
 - **Auto Kill**: 바다 생물이 너무 많다는 메시지가 뜨면 Weapon Slot의 무기로 바꿔 바닥을 보고 우클릭한 뒤 낚시를 이어가요.
 - **Work In Chat / Work In Inventory**: 채팅창이나 인벤토리를 열어 둔 채로도 계속 낚시해요.
 - **Macro Checking**: 낚시 중에 서버가 강제로 텔레포트·회전시키면 Auto Fishing을 끄고 알려줘요.
-- 손에 낚싯대가 없으면 꺼지지 않고 멈춰요. 다시 찌를 던지면 이어서 낚시해요.
+- 손에 낚싯대가 없으면 꺼지지 않고 멈춰요. 다시 낚싯대를 들고 찌를 던지면 이어서 낚시해요.
 
 ### Fishing Hud
 - 낚시 중에 화면에 Auto Fishing 상태, 작동 시간, 마지막 매크로 체크 시각을 보여 줘요.
